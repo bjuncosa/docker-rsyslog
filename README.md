@@ -1,0 +1,2 @@
+# rsyslog
+# docker-rsyslog
